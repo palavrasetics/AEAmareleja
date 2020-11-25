@@ -1,5 +1,7 @@
 <!-- <link rel="shortcut icon" type="image/x-icon" href="docs/ae.ico"> -->
+<head>
 <link rel="shortcut icon" type="image/png" href="{{ "https://raw.githubusercontent.com/palavrasetics/ProfCarlaGomes/main/docs/ae.png"  | absolute_url }}">
+</head>
 
 ## Página Web da Professora Carla Gomes
 
