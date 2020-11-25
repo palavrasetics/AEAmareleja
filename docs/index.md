@@ -1,4 +1,4 @@
-<link rel="icon" href="https://raw.githubusercontent.com/palavrasetics/AEAmareleja/main/docs/ae.ico">
+<link rel="shortcut icon" type="image/x-icon" href="docs/ae.ico">
 
 ## Página Web da Professora Carla Gomes
 
